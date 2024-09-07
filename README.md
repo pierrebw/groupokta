@@ -24,7 +24,7 @@ Also let's make a Group Rule that anyone with department field Human Resources w
 <img src="https://i.imgur.com/cKVf4Pq.png" height="80%" width="80%"/>
 <br />
 <br />
-Rule successfully added Human Resources members to the groupp.<br/>
+Rule successfully added Human Resources members to the group.<br/>
 <img src="https://i.imgur.com/s0fD4XQ.png" height="80%" width="80%"/>
 <br />
 <br />
